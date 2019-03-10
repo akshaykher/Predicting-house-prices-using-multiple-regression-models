@@ -10,3 +10,4 @@ http://rpubs.com/akshaykher/Predicting-Risky-Landings-using-GLM-models
 **Approach**: Compared the train and test MSE for 5 different regression models.
 
 **Major Findings**: In general, predictive power of Boosting > Random Forest > Bagging > Regression Tree > Linear Regression
+ 
