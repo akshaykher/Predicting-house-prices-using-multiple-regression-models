@@ -13,9 +13,7 @@ A financial institution wants to analyze the demographic information of the US p
     * college fund
     * retirement fund
     * life insurance
-
-***
-
-** Data **
+    
+**Data**
 
 The sample data given is a portion of the American Community Survey 2015 from census.gov. It contains several fields detailing population, gender, and business metrics grouped by selected ZIP codes throughout the United States. 
