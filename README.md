@@ -5,8 +5,17 @@ https://rpubs.com/akshaykher/Predicting-house-prices-using-multiple-models
 
 ***
 
-**Goal:** Compare the performance of various regression models on predicting the house prices in the Boston housing data.
+** Problem Description **
+A financial institution wants to analyze the demographic information of the US population to predict:
 
-**Approach:** Compared the train and test MSE for 7 different regression models.
+1. Revenue earned by the company for a given ZIP code
+2. The most popular product sold in a given ZIP code:
+    * college fund
+    * retirement fund
+    * life insurance
 
-**Major Findings:** In this case, predictive power of Boosting > Random Forest > GAMs > Neural Network > Bagging > Regression Tree > Lasso Regression
+***
+
+** Data **
+
+The sample data given is a portion of the American Community Survey 2015 from census.gov. It contains several fields detailing population, gender, and business metrics grouped by selected ZIP codes throughout the United States. 
